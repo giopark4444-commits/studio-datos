@@ -1,0 +1,10 @@
+{
+  "save_dir": "",
+  "voice_styles": [
+    {
+      "name": "Narrador docu",
+      "voice": "onyx",
+      "instructions": "documental, pausado, grave"
+    }
+  ]
+}

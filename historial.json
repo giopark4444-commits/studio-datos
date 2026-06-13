@@ -1,0 +1,107 @@
+[
+  {
+    "file": "tx_20260612_075238_e1bd.txt",
+    "kind": "stt",
+    "prompt": "Hola, G.O.L. Estudio Jabla.\n",
+    "model": "whisper-1",
+    "size": "txt",
+    "quality": "",
+    "mode": "audio",
+    "cost": 0.0003,
+    "output_tokens": 0,
+    "ts": "2026-06-12 07:52",
+    "project": ""
+  },
+  {
+    "file": "voz_20260612_075227_2336.mp3",
+    "kind": "tts",
+    "prompt": "Hola Gio, el estudio ya habla.",
+    "voice": "nova",
+    "model": "tts-1",
+    "size": "mp3",
+    "quality": "",
+    "mode": "audio",
+    "cost": 0.00045,
+    "output_tokens": 0,
+    "ts": "2026-06-12 07:52",
+    "project": ""
+  },
+  {
+    "file": "img_20260611_212100_dcdf.png",
+    "prompt": "a single green leaf, isolated",
+    "size": "1536x1024",
+    "quality": "low",
+    "mode": "crear",
+    "cost": 0.01206,
+    "output_tokens": 400,
+    "ts": "2026-06-11 21:21",
+    "project": "",
+    "fav": false
+  },
+  {
+    "file": "img_20260611_211130_9c01.png",
+    "prompt": "make this person hold a coffee cup instead, same style",
+    "size": "1024x1024",
+    "quality": "low",
+    "mode": "editar",
+    "cost": 0.01109,
+    "output_tokens": 196,
+    "ts": "2026-06-11 21:11",
+    "project": ""
+  },
+  {
+    "file": "img_20260611_210801_dbe8.png",
+    "prompt": "a calm landscape, test",
+    "size": "1024x1024",
+    "quality": "low",
+    "mode": "crear",
+    "cost": 0.00594,
+    "output_tokens": 196,
+    "ts": "2026-06-11 21:08",
+    "project": ""
+  },
+  {
+    "file": "img_20260611_210729_f16a.png",
+    "prompt": "the same character but now wearing a winter coat in the snow",
+    "size": "1024x1024",
+    "quality": "low",
+    "mode": "editar",
+    "cost": 0.01371,
+    "output_tokens": 196,
+    "ts": "2026-06-11 21:07",
+    "project": "memoria-visual-test"
+  },
+  {
+    "file": "img_20260611_205700_d3cc.png",
+    "prompt": "anime girl with crimson hair, cel-shaded, cinematic lighting",
+    "size": "1024x1024",
+    "quality": "low",
+    "mode": "crear",
+    "cost": 0.00597,
+    "output_tokens": 196,
+    "ts": "2026-06-11 20:57",
+    "project": "anime-demo"
+  },
+  {
+    "file": "img_20260611_205622_8b7c.png",
+    "prompt": "turn the beer into a glass of orange juice",
+    "size": "1024x1024",
+    "quality": "low",
+    "mode": "editar",
+    "cost": 0.01108,
+    "output_tokens": 196,
+    "ts": "2026-06-11 20:56",
+    "project": ""
+  },
+  {
+    "file": "img_20260611_205530_c69e.png",
+    "prompt": "a tiny blue robot, test",
+    "size": "1024x1024",
+    "quality": "low",
+    "mode": "crear",
+    "cost": 0.00594,
+    "output_tokens": 196,
+    "ts": "2026-06-11 20:55",
+    "project": ""
+  }
+]
