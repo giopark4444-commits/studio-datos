@@ -1,5 +1,238 @@
 [
   {
+    "file": "img_20260614_185554_b5e8.png",
+    "prompt": "quiero este personaje con ropa comoda y ligera. toda la ropa debe ser de color blanco y pagada al cuerpo, los zapatos muy futuristas y ajustados",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.16674,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 18:55",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_185303_e746.png",
+    "prompt": "quiero este personaje con ropa comoda y ligera",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.04738,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 18:53",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_185104_dd67.png",
+    "prompt": "quiero ver una accion contreta y es justo el momento en el que su mano toma el cuchillo del jetpack, quiero ver como funiona eso y como vulve a ponerlo en el jetpack,  pero la manera como lo debe hacer es ella poniendo su mano en la espalda, haz la accion detallada,",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.17445,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 18:51",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_184649_264b.png",
+    "prompt": "quiero ver una accion contreta y es justo el momento en el que su mano toma el cuchillo del jetpack, quiero ver como funiona eso y como vulve a ponerlo en el jetpack,",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.17433,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 18:46",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_184122_d76f.png",
+    "prompt": "usa la segunda imagen como referencia para las acciones siguientes con el jet pack, quiero ver como acelera ella estando en el piso,  quiero ver un dash aereo, un giro en vuelo, y un impulso vertical a gran potencia. tambien quiero ver como ella toma el cuchillo justo cuando se despliega del jetpack",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.17444,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 18:41",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_183425_c179.png",
+    "prompt": "puedes mostrarme este personaje con un jetpack volando, el jet pack debe ser muy aerodinamico y los propulsores son rectanbulares muy pegados al cuerpo,  tiene propulsores en la planta de los pies, los propulosres lanzan llamas azules no amarillas.  y es muy agil , l con un arme tiepo cuchillo high tech, puedes mosntrarme algunas de estas acciones\nel cuchillo sale de un compartimiento del jetpack. el jet pack debe ser super delgado casi imperceptible y muy pegado a si cuerpo , pero que sea de color blanco con naranja, mas aerodinamico con detalles en la collumna recuerda que el personaje tiene una sola cola larga de trenza",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.16737,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 18:34",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_183050_51d5.png",
+    "prompt": "puedes mostrarme este personaje con un jetpack volando, el jet pack debe ser muy aerodinamico y los propulsores son rectanbulares muy pegados al cuerpo,  tiene propulsores en la planta de los pies, los propulosres lanzan llamas azules no amarillas.  y es muy agil , l con un arme tiepo cuchillo high tech, puedes mosntrarme algunas de estas acciones\nel cuchillo sale de un compartimiento del jetpack. el jet pack debe ser super delgado casi imperceptible y muy pegado a si cuerpo",
+    "size": "1920x1088",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.1672,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 18:30",
+    "project": "",
+    "fav": false
+  },
+  {
+    "file": "img_20260614_182755_541c.png",
+    "prompt": "puedes mostrarme este personaje con un jetpack volando, el jet pack debe ser muy aerodinamico y los propulsores son rectanbulares muy pegados al cuerpo,  tiene propulsores en la planta de los pies, los propulosres lanzan llamas azules no amarillas.  y es muy agil , l con un arme tiepo cuchillo high tech, puedes mosntrarme algunas de estas acciones\nel cuchillo sale de un compartimiento del jetpack",
+    "size": "2560x1440",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.2292,
+    "output_tokens": 7370,
+    "ts": "2026-06-14 18:27",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_181754_c5a9.png",
+    "prompt": "puedes mostrarme este personaje con un jetpack volando, tiene propulsores en la planta de los pies, y es muy ahil con un arme tiepo cuchillo high tech, puedes mosntrarme algunas de estas acciones",
+    "size": "2560x1440",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.22892,
+    "output_tokens": 7370,
+    "ts": "2026-06-14 18:17",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_180848_a06d.png",
+    "prompt": "quiero que me hagas un action chart de stella, ella es una luchadora en entrenamiento del imperio. es muy agil y veloz",
+    "size": "2560x1440",
+    "quality": "auto",
+    "mode": "editar",
+    "cost": 0.06302,
+    "output_tokens": 1843,
+    "ts": "2026-06-14 18:08",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_180420_8cac.png",
+    "prompt": "quiero que me hagas un action chart de stella, ella es una luchadora en entrenamiento del imperio. es muy agil y veloz",
+    "size": "3072x1744",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.07924,
+    "output_tokens": 2384,
+    "ts": "2026-06-14 18:04",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_180148_c0c8.png",
+    "prompt": "quiero que me hagas un action chart de stella, ella es una luchadora en entrenamiento del imperio. es muy agil y veloz",
+    "size": "1920x1088",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04748,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 18:01",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_175211_a488.png",
+    "prompt": "quiero ver a este personaje con stilo ghibli, recuerda que es una nina.",
+    "size": "1920x1088",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04742,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 17:52",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_174237_7ed2.png",
+    "prompt": "quiero a este personaje verse bastante mas adulta, una mujer de unos 40 años, hazlo con stilo ghibli,",
+    "size": "1920x1088",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04746,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 17:42",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_173805_5e33.png",
+    "prompt": "quiero a este personaje verse bastante mas adulta, una mujer de unos 50 años,  casi anciana, hazlo con stilo ghibli,",
+    "size": "1920x1088",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04748,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 17:38",
+    "project": "",
+    "fav": false
+  },
+  {
+    "file": "img_20260614_173535_db3c.png",
+    "prompt": "quiero a este personaje verse bastante mas adulta, una mujer de unos 50 años,  casi anciana",
+    "size": "1920x1088",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04743,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 17:35",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_173032_82b6.png",
+    "prompt": "quiero a este personaje verse bastante mas adulta, una mujer de unos 40 años,",
+    "size": "1920x1088",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04741,
+    "output_tokens": 1325,
+    "ts": "2026-06-14 17:30",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_172046_f3bc.png",
+    "prompt": "quiero que me hagas un character sheet de la opcion H de la segunda imagem,",
+    "size": "1920x1088",
+    "quality": "high",
+    "mode": "editar",
+    "cost": 0.17406,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 17:20",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_171732_0b46.jpeg",
+    "prompt": "quiero que me hagas un character sheet de la opcion H de la segunda imagem,",
+    "size": "1920x1088",
+    "quality": "high",
+    "mode": "editar",
+    "cost": 0.17406,
+    "output_tokens": 5300,
+    "ts": "2026-06-14 17:17",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_171219_767c.png",
+    "prompt": "dame mas opciones de vestuario de este personaje, con la misma onda y diferentes paletas de colores",
+    "size": "2560x1456",
+    "quality": "high",
+    "mode": "editar",
+    "cost": 0.23451,
+    "output_tokens": 7561,
+    "ts": "2026-06-14 17:12",
+    "project": ""
+  },
+  {
+    "file": "img_20260614_170854_6cb9.png",
+    "prompt": "dame mas opciones de vestuario de este personaje, con la misma onda y diferentes paletas de colores",
+    "size": "1536x1024",
+    "quality": "medium",
+    "mode": "editar",
+    "cost": 0.04892,
+    "output_tokens": 1568,
+    "ts": "2026-06-14 17:08",
+    "project": ""
+  },
+  {
     "file": "tx_20260612_075238_e1bd.txt",
     "kind": "stt",
     "prompt": "Hola, G.O.L. Estudio Jabla.\n",
@@ -27,40 +260,6 @@
     "project": ""
   },
   {
-    "file": "img_20260611_212100_dcdf.png",
-    "prompt": "a single green leaf, isolated",
-    "size": "1536x1024",
-    "quality": "low",
-    "mode": "crear",
-    "cost": 0.01206,
-    "output_tokens": 400,
-    "ts": "2026-06-11 21:21",
-    "project": "",
-    "fav": false
-  },
-  {
-    "file": "img_20260611_211130_9c01.png",
-    "prompt": "make this person hold a coffee cup instead, same style",
-    "size": "1024x1024",
-    "quality": "low",
-    "mode": "editar",
-    "cost": 0.01109,
-    "output_tokens": 196,
-    "ts": "2026-06-11 21:11",
-    "project": ""
-  },
-  {
-    "file": "img_20260611_210801_dbe8.png",
-    "prompt": "a calm landscape, test",
-    "size": "1024x1024",
-    "quality": "low",
-    "mode": "crear",
-    "cost": 0.00594,
-    "output_tokens": 196,
-    "ts": "2026-06-11 21:08",
-    "project": ""
-  },
-  {
     "file": "img_20260611_210729_f16a.png",
     "prompt": "the same character but now wearing a winter coat in the snow",
     "size": "1024x1024",
@@ -81,27 +280,5 @@
     "output_tokens": 196,
     "ts": "2026-06-11 20:57",
     "project": "anime-demo"
-  },
-  {
-    "file": "img_20260611_205622_8b7c.png",
-    "prompt": "turn the beer into a glass of orange juice",
-    "size": "1024x1024",
-    "quality": "low",
-    "mode": "editar",
-    "cost": 0.01108,
-    "output_tokens": 196,
-    "ts": "2026-06-11 20:56",
-    "project": ""
-  },
-  {
-    "file": "img_20260611_205530_c69e.png",
-    "prompt": "a tiny blue robot, test",
-    "size": "1024x1024",
-    "quality": "low",
-    "mode": "crear",
-    "cost": 0.00594,
-    "output_tokens": 196,
-    "ts": "2026-06-11 20:55",
-    "project": ""
   }
 ]
